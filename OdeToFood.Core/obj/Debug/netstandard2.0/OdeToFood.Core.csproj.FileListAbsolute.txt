@@ -1,0 +1,12 @@
+C:\Users\rvanegas\OdeToFood\OdeToFood.Core\bin\Debug\netstandard2.0\OdeToFood.Core.deps.json
+C:\Users\rvanegas\OdeToFood\OdeToFood.Core\bin\Debug\netstandard2.0\OdeToFood.Core.dll
+C:\Users\rvanegas\OdeToFood\OdeToFood.Core\bin\Debug\netstandard2.0\OdeToFood.Core.pdb
+C:\Users\rvanegas\OdeToFood\OdeToFood.Core\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Users\rvanegas\OdeToFood\OdeToFood.Core\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+C:\Users\rvanegas\OdeToFood\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.csprojAssemblyReference.cache
+C:\Users\rvanegas\OdeToFood\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.csproj.CoreCompileInputs.cache
+C:\Users\rvanegas\OdeToFood\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.AssemblyInfoInputs.cache
+C:\Users\rvanegas\OdeToFood\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.AssemblyInfo.cs
+C:\Users\rvanegas\OdeToFood\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.csproj.CopyComplete
+C:\Users\rvanegas\OdeToFood\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.dll
+C:\Users\rvanegas\OdeToFood\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.pdb
